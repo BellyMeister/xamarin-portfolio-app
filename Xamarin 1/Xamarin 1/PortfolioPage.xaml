@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_1.PortfolioPage"
+             Title="Portfolio"
+             Background="#262626">
+    <ListView x:Name="listView"
+              RowHeight="50"
+              SelectionMode="None"
+              GroupDisplayBinding="{Binding Area}"
+              GroupShortNameBinding="{Binding Title}"
+              IsGroupingEnabled="True"
+              SeparatorVisibility="None">
+        <ListView.ItemTemplate >
+            <DataTemplate>
+                <ViewCell>
+                    <Button Text="{Binding Title}"
+                            Clicked="OnDynamicBtnClicked"
+                            BackgroundColor="#262626"
+                            BorderColor="#DB162F"
+                            TextColor="#F6E8EA"
+                            BorderWidth="2"
+                            Margin="5"
+                            VerticalOptions="StartAndExpand"/>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+        <ListView.GroupHeaderTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <Label Text="{Binding Area}"
+                           VerticalOptions="CenterAndExpand"
+                           Margin="10,0,0,0"
+                           FontAttributes="Bold"
+                           TextColor="#F6E8EA"
+                           
+                           />
+                </ViewCell>
+            </DataTemplate>
+        </ListView.GroupHeaderTemplate>
+    </ListView>
+</ContentPage>

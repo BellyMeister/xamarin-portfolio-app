@@ -1,0 +1,16 @@
+C:\Users\Seppi\source\repos\Xamarin 1\Xamarin 1\Xamarin 1\bin\Debug\netstandard2.0\Xamarin 1.deps.json
+C:\Users\Seppi\source\repos\Xamarin 1\Xamarin 1\Xamarin 1\bin\Debug\netstandard2.0\Xamarin 1.dll
+C:\Users\Seppi\source\repos\Xamarin 1\Xamarin 1\Xamarin 1\bin\Debug\netstandard2.0\ref\Xamarin 1.dll
+C:\Users\Seppi\source\repos\Xamarin 1\Xamarin 1\Xamarin 1\bin\Debug\netstandard2.0\Xamarin 1.pdb
+C:\Users\Seppi\source\repos\Xamarin 1\Xamarin 1\Xamarin 1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Seppi\source\repos\Xamarin 1\Xamarin 1\Xamarin 1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Seppi\source\repos\Xamarin 1\Xamarin 1\Xamarin 1\obj\Debug\netstandard2.0\PortfolioPage.xaml.g.cs
+C:\Users\Seppi\source\repos\Xamarin 1\Xamarin 1\Xamarin 1\obj\Debug\netstandard2.0\ProjectDetails.xaml.g.cs
+C:\Users\Seppi\source\repos\Xamarin 1\Xamarin 1\Xamarin 1\obj\Debug\netstandard2.0\Xamarin 1.AssemblyInfoInputs.cache
+C:\Users\Seppi\source\repos\Xamarin 1\Xamarin 1\Xamarin 1\obj\Debug\netstandard2.0\Xamarin 1.AssemblyInfo.cs
+C:\Users\Seppi\source\repos\Xamarin 1\Xamarin 1\Xamarin 1\obj\Debug\netstandard2.0\Xamarin 1.csproj.CoreCompileInputs.cache
+C:\Users\Seppi\source\repos\Xamarin 1\Xamarin 1\Xamarin 1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Seppi\source\repos\Xamarin 1\Xamarin 1\Xamarin 1\obj\Debug\netstandard2.0\Xamarin 1.dll
+C:\Users\Seppi\source\repos\Xamarin 1\Xamarin 1\Xamarin 1\obj\Debug\netstandard2.0\ref\Xamarin 1.dll
+C:\Users\Seppi\source\repos\Xamarin 1\Xamarin 1\Xamarin 1\obj\Debug\netstandard2.0\Xamarin 1.pdb
+C:\Users\Seppi\source\repos\Xamarin 1\Xamarin 1\Xamarin 1\obj\Debug\netstandard2.0\Xamarin 1.csprojAssemblyReference.cache

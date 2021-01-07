@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_1.MainPage"
+             Title="CV"
+             BackgroundColor="#262626">
+    <Grid>
+        <Grid>
+            <ScrollView>
+                <StackLayout>
+                    <Label Text="Lorem Ipsum"
+                           FontSize="Title"
+                           FontAttributes="Bold"
+                           TextColor="#DB162F"
+                           Margin="10, 10, 10, 0"/>
+                    <Label Text="Dolor sit amet"
+                           FontSize="Subtitle"
+                           TextColor="#F6E8EA"
+                           VerticalOptions="Start"
+                           Margin="20, 0, 0, 0"
+                           FontAttributes="Italic"/>
+                    <Image Source="callmecarsoncrying.jpg"
+                           Margin="10"/>
+                    <Label Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget sollicitudin ligula. Sed tristique eros a purus porttitor euismod. In volutpat rutrum urna in tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget sollicitudin ligula. Sed tristique eros a purus porttitor euismod. In volutpat rutrum urna in tincidunt."
+                           TextColor="#F6E8EA"
+                           FontSize="Body"
+                           Margin="10"/>
+                    <Button BackgroundColor="#DB162F"
+                            x:Name="yeed"
+                            Text="Portfolio"
+                            TextColor="#F6E8EA"
+                            Clicked="ToPortfolio"
+                            Margin="10, 30, 10, 30"/>
+                    <Label Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget sollicitudin ligula. Sed tristique eros a purus porttitor euismod. In volutpat rutrum urna in tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget sollicitudin ligula. Sed tristique eros a purus porttitor euismod. In volutpat rutrum urna in tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget sollicitudin ligula. Sed tristique eros a purus porttitor euismod. In volutpat rutrum urna in tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget sollicitudin ligula. Sed tristique eros a purus porttitor euismod. In volutpat rutrum urna in tincidunt..."
+                           TextColor="#F6E8EA"
+                           FontSize="Body"
+                           Margin="10"/>
+                </StackLayout>
+            </ScrollView>
+        </Grid>
+    </Grid>
+</ContentPage>
