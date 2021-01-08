@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Seppi\\source\\repos\\Xamarin 1\\Xamarin 1\\Xamarin 1\\Xamarin 1.csproj": {}
+    "F:\\Random shit\\Portfolio app\\xamarin-portfolio-app\\Xamarin 1\\Xamarin 1\\Xamarin 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Seppi\\source\\repos\\Xamarin 1\\Xamarin 1\\Xamarin 1\\Xamarin 1.csproj": {
+    "F:\\Random shit\\Portfolio app\\xamarin-portfolio-app\\Xamarin 1\\Xamarin 1\\Xamarin 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Seppi\\source\\repos\\Xamarin 1\\Xamarin 1\\Xamarin 1\\Xamarin 1.csproj",
+        "projectUniqueName": "F:\\Random shit\\Portfolio app\\xamarin-portfolio-app\\Xamarin 1\\Xamarin 1\\Xamarin 1.csproj",
         "projectName": "Xamarin 1",
-        "projectPath": "C:\\Users\\Seppi\\source\\repos\\Xamarin 1\\Xamarin 1\\Xamarin 1\\Xamarin 1.csproj",
+        "projectPath": "F:\\Random shit\\Portfolio app\\xamarin-portfolio-app\\Xamarin 1\\Xamarin 1\\Xamarin 1.csproj",
         "packagesPath": "C:\\Users\\Seppi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Seppi\\source\\repos\\Xamarin 1\\Xamarin 1\\Xamarin 1\\obj\\",
+        "outputPath": "F:\\Random shit\\Portfolio app\\xamarin-portfolio-app\\Xamarin 1\\Xamarin 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

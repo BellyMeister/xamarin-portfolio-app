@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Seppi\\source\\repos\\Xamarin 1\\Xamarin 1\\Xamarin 1.iOS\\Xamarin 1.iOS.csproj",
+      "projectUniqueName": "F:\\Random shit\\Portfolio app\\xamarin-portfolio-app\\Xamarin 1\\Xamarin 1.iOS\\Xamarin 1.iOS.csproj",
       "projectName": "Xamarin 1.iOS",
-      "projectPath": "C:\\Users\\Seppi\\source\\repos\\Xamarin 1\\Xamarin 1\\Xamarin 1.iOS\\Xamarin 1.iOS.csproj",
+      "projectPath": "F:\\Random shit\\Portfolio app\\xamarin-portfolio-app\\Xamarin 1\\Xamarin 1.iOS\\Xamarin 1.iOS.csproj",
       "packagesPath": "C:\\Users\\Seppi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Seppi\\source\\repos\\Xamarin 1\\Xamarin 1\\Xamarin 1.iOS\\obj\\",
+      "outputPath": "F:\\Random shit\\Portfolio app\\xamarin-portfolio-app\\Xamarin 1\\Xamarin 1.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1012,8 +1012,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Seppi\\source\\repos\\Xamarin 1\\Xamarin 1\\Xamarin 1\\Xamarin 1.csproj": {
-              "projectPath": "C:\\Users\\Seppi\\source\\repos\\Xamarin 1\\Xamarin 1\\Xamarin 1\\Xamarin 1.csproj"
+            "F:\\Random shit\\Portfolio app\\xamarin-portfolio-app\\Xamarin 1\\Xamarin 1\\Xamarin 1.csproj": {
+              "projectPath": "F:\\Random shit\\Portfolio app\\xamarin-portfolio-app\\Xamarin 1\\Xamarin 1\\Xamarin 1.csproj"
             }
           }
         }

@@ -5,7 +5,9 @@
              BackgroundColor="#262626">
     <ContentPage.Content>
 
-        <ListView x:Name="listView" HasUnevenRows="True" SelectionMode="None">
+        <ListView x:Name="listView" 
+                  HasUnevenRows="True" 
+                  SelectionMode="None">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell IsEnabled="False">
@@ -15,8 +17,10 @@
                                    FontSize="Subtitle"
                                    FontAttributes="Bold"
                                    Margin="10"/>
+                            
                             <Image Source="{Binding ImageSource}"
                                    Margin="10"/>
+                            
                             <Label Text="{Binding BodyText}"
                                    TextColor="#F6E8EA"
                                    FontSize="Body"

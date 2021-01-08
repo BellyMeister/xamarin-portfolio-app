@@ -11,7 +11,7 @@
               GroupShortNameBinding="{Binding Title}"
               IsGroupingEnabled="True"
               SeparatorVisibility="None">
-        <ListView.ItemTemplate >
+        <ListView.ItemTemplate>
             <DataTemplate>
                 <ViewCell>
                     <Button Text="{Binding Title}"
@@ -32,9 +32,7 @@
                            VerticalOptions="CenterAndExpand"
                            Margin="10,0,0,0"
                            FontAttributes="Bold"
-                           TextColor="#F6E8EA"
-                           
-                           />
+                           TextColor="#F6E8EA"/>
                 </ViewCell>
             </DataTemplate>
         </ListView.GroupHeaderTemplate>

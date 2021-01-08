@@ -16,7 +16,7 @@ namespace Xamarin_1
         public ProjectDetails(Project project)
         {
             InitializeComponent();
-            this.Title = project.Title;
+            Title = project.Title;
             listView.ItemsSource = new List<Project> { project };
         }
     }
